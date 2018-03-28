@@ -1,0 +1,29 @@
+#container {
+	position: relative;
+	top: 20px;
+	outline:2px solid #000;
+	font-size: 0;
+	margin:auto;
+	height:960px;
+	width:960px;
+	padding: 0;
+	border: none;
+    text-align: center;
+}
+
+.grid{
+	margin:0;
+	padding:0;
+	outline: 1px solid #000;
+	display: inline-block;
+}
+
+.buttons{
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.newGrid{
+    border-radius: 5px;
+    background-color: gainsboro
+}
